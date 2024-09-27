@@ -3,3 +3,4 @@ Hello, GitHub!
 This is my code.
 string s = "";
 s = "just test string";
+NEW STRING
